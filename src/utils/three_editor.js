@@ -1738,6 +1738,7 @@ const TE = {
           castShadow: obj.castShadow,
           receiveShadow: obj.receiveShadow,
           position: obj.position,
+          // 保存BUG
           rotation: obj.rotation.toVector3(),
           scale: obj.scale,
           userData: obj.userData,
