@@ -7,6 +7,7 @@ import { SVGLoader } from 'three/addons/loaders/SVGLoader'
 import { OrbitControls } from 'three/addons/controls/OrbitControls'
 import { TransformControls } from 'three/addons/controls/TransformControls'
 import { TextGeometry } from 'three/addons/geometries/TextGeometry'
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader'
 import Stats from 'stats.js'
 import dat from 'dat.gui'
 import TWEEN from '@tweenjs/tween.js'
@@ -1183,7 +1184,7 @@ const TE = {
 
   addModel: function (model_name, fnCallback) {
     // 加载 glTF 格式的模型
-    let loader = new THREE.GLTFLoader() /*实例化加载器*/
+    let loader = new GLTFLoader() /*实例化加载器*/
     // loader.setPath('/threejs-assets/models/')
     /*
         const dracoLoader = new THREE.DRACOLoader();
@@ -1675,7 +1676,7 @@ const TE = {
         TE.selectObj(imgObj)
         break
       case 'Model':
-        let modelName = window.prompt('GLB模型 (GLB名称)', 'guanqu.glb')
+        let modelName = window.prompt('GLB模型 (GLB名称)', 'kuqu.glb')
         if (!modelName) return
         TE.addModel(modelName, function (modelObj) {
           TE.selectObj(modelObj)
