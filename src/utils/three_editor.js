@@ -110,12 +110,12 @@ const TE = {
     // TP.scene.add(skyBox);
 
     let urls = [
-      '/threejs-assets/img/skybox_RT_s.jpg', // right
-      '/threejs-assets/img/skybox_LF_s.jpg', // left
-      '/threejs-assets/img/skybox_UP_s.jpg', // top
-      '/threejs-assets/img/skybox_DN_s.jpg', // bottom
-      '/threejs-assets/img/skybox_BK_s.jpg', // back
-      '/threejs-assets/img/skybox_FR_s.jpg', // front
+      './threejs-assets/img/skybox_RT_s.jpg', // right
+      './threejs-assets/img/skybox_LF_s.jpg', // left
+      './threejs-assets/img/skybox_UP_s.jpg', // top
+      './threejs-assets/img/skybox_DN_s.jpg', // bottom
+      './threejs-assets/img/skybox_BK_s.jpg', // back
+      './threejs-assets/img/skybox_FR_s.jpg', // front
     ]
     let skyboxCubemap = new THREE.CubeTextureLoader().load(urls)
     TE.scene.background = skyboxCubemap
@@ -168,7 +168,7 @@ const TE = {
       new THREE.BoxGeometry(50, 0.4, 50),
       { x: 0, y: 0.2, z: 0 },
       '#363',
-      '/threejs-assets/texture/texture02.jpg'
+      './threejs-assets/texture/texture02.jpg'
     )
 
     let i = 0
@@ -178,7 +178,7 @@ const TE = {
         let geometry = new THREE.BoxGeometry(4, h, 4)
         geometry.translate(0, h / 2, 0)
 
-        TE.addObj(geometry, { x: x, y: 0, z: y }, null, '/threejs-assets/texture/texture01.jpg')
+        TE.addObj(geometry, { x: x, y: 0, z: y }, null, './threejs-assets/texture/texture01.jpg')
 
         i++
         let spritey = TE.addMarker(' #' + i + '号 ')
@@ -188,7 +188,7 @@ const TE = {
 
     TE.addText('Hello World!')
 
-    TE.addSvg('/threejs-assets/models/svg/threejs.svg')
+    TE.addSvg('./threejs-assets/models/svg/threejs.svg')
   },
 
   // 初始化Stats
@@ -610,9 +610,9 @@ const TE = {
     // 材质
     let textureType = {
       empty: '',
-      texture01: '/threejs-assets/texture/texture01.jpg',
-      texture02: '/threejs-assets/texture/texture02.jpg',
-      texture03: '/threejs-assets/texture/texture03.jpg',
+      texture01: './threejs-assets/texture/texture01.jpg',
+      texture02: './threejs-assets/texture/texture02.jpg',
+      texture03: './threejs-assets/texture/texture03.jpg',
     }
     TE.guiController.textureUrl = f2
       .add(TE.gui, 'textureUrl', textureType)
@@ -969,7 +969,7 @@ const TE = {
       texture = new THREE.TextureLoader().load(textureUrl)
       texture.repeat.set(3, 3)
     } else {
-      texture = new THREE.TextureLoader().load('/threejs-assets/texture/texture01.jpg')
+      texture = new THREE.TextureLoader().load('./threejs-assets/texture/texture01.jpg')
       texture.repeat.set(0, 0)
     }
 
@@ -1020,7 +1020,7 @@ const TE = {
     height = height || 1
     color = color || '#FF0000'
     let loader = new FontLoader()
-    loader.load('/threejs-assets/font/helvetiker_regular.typeface.json', function (font) {
+    loader.load('./threejs-assets/font/helvetiker_regular.typeface.json', function (font) {
       let textOption = {
         size: size,
         height: height,
@@ -1045,7 +1045,7 @@ const TE = {
         flatShading: true,
       })
 
-      let texture = new THREE.TextureLoader().load('/threejs-assets/texture/texture01.jpg')
+      let texture = new THREE.TextureLoader().load('./threejs-assets/texture/texture01.jpg')
       texture.wrapS = THREE.RepeatWrapping
       texture.wrapT = THREE.RepeatWrapping
       texture.repeat.set(0, 0)
@@ -1185,15 +1185,15 @@ const TE = {
   addModel: function (model_name, fnCallback) {
     // 加载 glTF 格式的模型
     let loader = new GLTFLoader() /*实例化加载器*/
-    // loader.setPath('/threejs-assets/models/')
+    // loader.setPath('./threejs-assets/models/')
     /*
         const dracoLoader = new THREE.DRACOLoader();
-        dracoLoader.setDecoderPath( '/threejs-assets/js/libs/draco/' );
+        dracoLoader.setDecoderPath( './threejs-assets/js/libs/draco/' );
         loader.setDRACOLoader( dracoLoader );
         */
 
     loader.load(
-      `/threejs-assets/models/${model_name}`,
+      `./threejs-assets/models/${model_name}`,
       function (obj) {
         //console.log(obj);
         let modelObj = obj.scene
@@ -1662,14 +1662,14 @@ const TE = {
         TE.selectObj(spritey)
         return
       case 'Svg':
-        let svgUrl = window.prompt('SVG图片 (图片URL)', '/threejs-assets/models/svg/threejs.svg')
+        let svgUrl = window.prompt('SVG图片 (图片URL)', './threejs-assets/models/svg/threejs.svg')
         if (!svgUrl) return
         TE.addSvg(svgUrl, function (svgObj) {
           TE.selectObj(svgObj)
         })
         break
       case 'Img':
-        let imgUrl = window.prompt('IMG图片 (图片URL)', '/threejs-assets/models/png/test.png')
+        let imgUrl = window.prompt('IMG图片 (图片URL)', './threejs-assets/models/png/test.png')
         if (!imgUrl) return
         let imgObj = TE.addImg(imgUrl)
         imgObj.position.set(tt.x, tt.y, tt.z)
