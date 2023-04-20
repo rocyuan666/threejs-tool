@@ -15,6 +15,7 @@
     "axios": "^1.3.4",
     "dat.gui": "^0.7.9",
     "file-saver": "^2.0.5",
+    "hammerjs": "^2.0.8",
     "normalize.css": "^8.0.1",
     "nprogress": "^0.2.0",
     "pinia": "^2.0.32",

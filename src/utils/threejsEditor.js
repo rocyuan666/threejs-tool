@@ -1,3 +1,7 @@
+/**
+ * ThreeJS 编辑器
+ * version v1.0.0
+ */
 import TWEEN from '@tweenjs/tween.js'
 import Stats from 'stats.js'
 import dat from 'dat.gui'
@@ -12,7 +16,7 @@ import { GLTFLoader } from 'three/addons/loaders/GLTFLoader'
 
 class ThreejsEditor {
   // 版本
-  version = '20230418'
+  version = 'v1.0.0'
   // 内部变量
   renderer = null
   camera = null
