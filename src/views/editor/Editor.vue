@@ -1,8 +1,8 @@
 <template>
-  <div class="tips">
-    <p>threejs编辑器</p>
-    <div>
-      <select ref="formDom" style="width: 130px">
+  <h1 class="title">ThreeJS 编辑器</h1>
+  <div class="tool">
+    <div class="box1">
+      <select v-model="selectValue">
         <option value="BoxGeometry">立方体 (X,Y,Z)</option>
         <option value="ConeGeometry">圆锥形 (半径，高度，分隔)</option>
         <option value="CylinderGeometry">圆柱体 (顶半径，底半径，高度，分隔)</option>
@@ -22,57 +22,76 @@
         <option value="Model">GLB模型 (GLB名称)</option>
         <option value="Tube">管道 (半径,圆分段数)</option>
       </select>
-      <button @click="handleAdd">添加</button>
+      <button @click="() => TE.add(selectValue)">添加</button>
     </div>
-    <div class="controller">
-      <button @click="handleSave">保存</button>
-      <button @click="handleLoad">加载</button>
-      <button @click="handleClear">清空</button>
+    <div class="box2">
+      <button title="快捷键 ctrl+s" @click="() => TE.save()">保存</button>
+      <button title="快捷键 ctrl+l" @click="() => TE.load()">加载</button>
+      <button title="快捷键 ctrl+e" @click="() => TE.exportJson()">导出</button>
+      <button title="快捷键 ctrl+r" @click="() => TE.clear()">清空</button>
     </div>
+    <p class="tips">
+      注意: 编辑用到的素材文件及导出的json文件放到项目的以下目录中: <br />/public/3d_assets/models/
+    </p>
   </div>
-  <div class="threejs-main" ref="threejsMain"></div>
+  <div class="three-main" ref="divMain"></div>
 </template>
 
 <script setup name="Editor">
-import { ref, onMounted } from 'vue'
-import TE from '@/utils/three_editor'
+import { onMounted, ref } from 'vue'
+import TE from '@/utils/threejsEditor'
 
-const formDom = ref(null)
-function handleAdd() {
-  TE.add(formDom.value.value)
-}
-function handleSave() {
-  TE.save()
-}
-function handleLoad() {
-  TE.load()
-}
-function handleClear() {
-  TE.clear()
-}
+const selectValue = ref('BoxGeometry')
 
-const threejsMain = ref(null)
+const divMain = ref()
 onMounted(() => {
-  TE.init(threejsMain.value)
+  TE.init(divMain.value)
 })
 </script>
 
 <style lang="scss" scoped>
-.tips {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  z-index: 9;
-  text-align: center;
-  color: #fff;
-  padding: 0 20px;
-  background-color: rgba($color: #000000, $alpha: 0.6);
-}
-.threejs-main {
+.title {
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  text-align: center;
+  color: #fff;
+}
+.tool {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  display: flex;
+  width: 230px;
+  flex-direction: column;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 20px 10px;
+  .box1 {
+    margin-bottom: 10px;
+    select {
+      width: 130px;
+      outline: none;
+      margin-right: 10px;
+    }
+  }
+  .box2 {
+    button {
+      outline: none;
+      margin: 0 2px;
+    }
+  }
+  .tips {
+    color: #fff;
+    font-size: 14px;
+    line-height: 1.5;
+    margin-bottom: 0;
+  }
+}
+.three-main {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
 }
 </style>

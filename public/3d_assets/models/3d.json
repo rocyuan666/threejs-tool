@@ -1,0 +1,7592 @@
+{
+  "time": "2023/4/7 16:20:08",
+  "version": "20230418",
+  "base": {
+    "autoRotate": true,
+    "fog": {
+      "fogColor": "#ccc",
+      "fogDensity": 0.005
+    }
+  },
+  "list": [
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -6.514065168628908,
+        "y": 2,
+        "z": 16.598732091990218
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.9302536231884058,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#1 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -4.1415307634215885,
+        "y": 1.966457154061822,
+        "z": 16.598732091990218
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.9302536231884058,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#2 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -6.508794962727417,
+        "y": 2,
+        "z": 14.207402174313314
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.9302536231884058,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#3 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -4.0563547733624326,
+        "y": 2,
+        "z": 14.207402174313314
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.9302536231884058,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#4 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -6.48813991560879,
+        "y": 2,
+        "z": 11.936699535564655
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.9302536231884058,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#5 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -4.070404706548429,
+        "y": 2,
+        "z": 11.936699535564655
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.9302536231884058,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#6 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -6.490556810777603,
+        "y": 2,
+        "z": 9.709033767836896
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.9302536231884058,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#7 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -4.019987279748249,
+        "y": 2,
+        "z": 9.709033767836896
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.9302536231884058,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#8 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -6.416030173502787,
+        "y": 2,
+        "z": 4.191993300890678
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.9302536231884058,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#9 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -4.050981036430535,
+        "y": 2,
+        "z": 4.191993300890678
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.0951086956521738,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#10 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -6.4679005376443675,
+        "y": 2,
+        "z": 2.2483808839144306
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.0833333333333333,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#11 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -4.110640259511423,
+        "y": 2,
+        "z": 2.2483808839144306
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.0951086956521738,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#12 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -6.4793285688511375,
+        "y": 2,
+        "z": 0.2707390803764027
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.0951086956521738,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#13 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -4.101079569933715,
+        "y": 2,
+        "z": 0.2707390803764027
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.0951086956521738,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#14 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -6.459415285787662,
+        "y": 2,
+        "z": -2.425133996182938
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.0951086956521738,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#15 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -4.42389031700467,
+        "y": 2,
+        "z": -2.425133996182938
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.0951086956521738,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#16 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -6.464686052053084,
+        "y": 2,
+        "z": -5.898126044889843
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.0951086956521738,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#17 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -4.485385832514706,
+        "y": 2,
+        "z": -5.898126044889843
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.0951086956521738,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#18 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -5.6999205955005925,
+        "y": 3.9599166597764732,
+        "z": -9.680876418335517
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.0951086956521738,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#19 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -5.6999205955005925,
+        "y": 3.9599166597764732,
+        "z": -13.527664795451392
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.0951086956521738,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#20 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": -5.6999205955005925,
+        "y": 3.9599166597764732,
+        "z": -17.356723090897482
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.0951086956521738,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#21 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": 1.3532872848513335,
+        "y": 3.1674411381579377,
+        "z": -15.084565166422255
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.0951086956521738,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#22 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": 4.988313930074269,
+        "y": 3.1674411381579377,
+        "z": -15.084565166422255
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.0951086956521738,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#23 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": 1.3266519768071257,
+        "y": 3.1674411381579377,
+        "z": -11.766385859460003
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.0951086956521738,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#24 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Marker",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": 4.9933859190888645,
+        "y": 3.1674411381579377,
+        "z": -11.766385859460003
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.0951086956521738,
+        "y": 0.5416666666666666,
+        "z": 0.5416666666666666
+      },
+      "userData": {
+        "type": "Marker",
+        "markerParams": {
+          "fontsize": 26,
+          "color": "#ff0000",
+          "text": " 罐#25 "
+        },
+        "materialParams": {
+          "opacity": 1
+        },
+        "bind": {}
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -5.547304081678149,
+        "y": 0.9192593350469216,
+        "z": 16.598732091990218
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g1_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -5.0606356471624565,
+        "y": 0.9192593350469216,
+        "z": 16.598732091990218
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g2_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -5.547304081678149,
+        "y": 0.9,
+        "z": 14.252364926490255
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g3_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -5.038281646375605,
+        "y": 0.9192593350469216,
+        "z": 14.252364926490255
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g4_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -5.040353666199458,
+        "y": 0.9192593350469216,
+        "z": 11.84219866711824
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g6_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -5.531991188206045,
+        "y": 0.9,
+        "z": 11.84219866711824
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g5_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -5.026062955314719,
+        "y": 0.9,
+        "z": 9.659221953852649
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g8_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -5.537106370008791,
+        "y": 0.9,
+        "z": 9.659221953852649
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g7_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -5.0315552927433895,
+        "y": 0.9,
+        "z": 4.243238628576144
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g10_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -5.517388624872723,
+        "y": 0.9,
+        "z": 4.243238628576144
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g9_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -5.030719335148466,
+        "y": 0.9,
+        "z": 2.30284837726897
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g12_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -5.550727240284077,
+        "y": 0.9,
+        "z": 2.30284837726897
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g11_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -5.035702571107687,
+        "y": 0.9,
+        "z": 0.2674638960028224
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g14_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -5.553020378132365,
+        "y": 0.9,
+        "z": 0.2674638960028224
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g13_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.520994939859711,
+        "y": 0.9,
+        "z": -1.2714565805176594
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g16_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -6.617374710191913,
+        "y": 0.9,
+        "z": -1.2880021335982097
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g15_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.5167720816679475,
+        "y": 0.9,
+        "z": -6.982628582839927
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g18_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -6.622010339212365,
+        "y": 0.9,
+        "z": -6.9925120656826625
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g17_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.756647152607403,
+        "y": 0.9,
+        "z": -9.46444666722115
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g19_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.751894420327745,
+        "y": 0.9,
+        "z": -13.382421339626124
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g20_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.750937871974192,
+        "y": 0.9,
+        "z": -17.407045406005995
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g21_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 2.8789911499527925,
+        "y": 0.9,
+        "z": -15.07189428177296
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g22_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 3.447922211178041,
+        "y": 0.9,
+        "z": -15.071894929615732
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g23_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 3.448638599655831,
+        "y": 0.9,
+        "z": -11.679303047371995
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g25_valve}"
+        }
+      }
+    },
+    {
+      "type": "Sphere",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 2.9108801532433852,
+        "y": 0.9,
+        "z": -11.679303047371995
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Sphere",
+        "geometryParams": {
+          "radius": 0.1,
+          "widthSegments": 16,
+          "heightSegments": 16
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$g24_valve}"
+        }
+      }
+    },
+    {
+      "type": "Cone",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -8.196306201527046,
+        "y": 0.6297091933424467,
+        "z": -18.524461994536047
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Cone",
+        "geometryParams": {
+          "radius": 0.1,
+          "height": 0.3,
+          "radialSegments": 32
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$pump_1}"
+        }
+      }
+    },
+    {
+      "type": "Cone",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 3.1820880971697045,
+        "y": 0.6297091933424467,
+        "z": -16.310908705160518
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Cone",
+        "geometryParams": {
+          "radius": 0.1,
+          "height": 0.3,
+          "radialSegments": 32
+        },
+        "materialParams": {
+          "color": "#333333",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "color": "{$pump_2}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.372425627124493,
+        "y": 0.2610344684796184,
+        "z": 16.565715256830043
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.3726411795220526,
+        "y": 0.2619977173007106,
+        "z": 16.565715256830043
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g2_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.279597077143702,
+        "y": 0.2637390523500936,
+        "z": 16.565715256830043
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.278408392108811,
+        "y": 0.2665103700433445,
+        "z": 16.565715256830043
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g1_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.30688665333274,
+        "y": 0.2637390523500936,
+        "z": 14.236264054591913
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.305695605582094,
+        "y": 0.2665103700433445,
+        "z": 14.236437482990134
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g3_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.3101256703675257,
+        "y": 0.2637390523500936,
+        "z": 14.236264054591913
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.309760426632835,
+        "y": 0.2665103700433445,
+        "z": 14.236437482990134
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g4_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.2693973604087887,
+        "y": 0.2637390523500936,
+        "z": 11.84934918903252
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.2687827089665102,
+        "y": 0.2665103700433445,
+        "z": 11.848737289371444
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g6_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.252746410806386,
+        "y": 0.2637390523500936,
+        "z": 11.84934918903252
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.251784681814732,
+        "y": 0.2665103700433445,
+        "z": 11.848737289371444
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g5_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.252141888034929,
+        "y": 0.2665103700433445,
+        "z": 9.612086575818218
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g7_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.250795736593677,
+        "y": 0.2637390523500936,
+        "z": 9.612772508137748
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.258083590674151,
+        "y": 0.2665103700433445,
+        "z": 9.682320949255496
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g8_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.2586660958737688,
+        "y": 0.2637390523500936,
+        "z": 9.682265837084785
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.191744450400309,
+        "y": 0.2637390523500936,
+        "z": 4.188574569189273
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.194475120458885,
+        "y": 0.2665103700433445,
+        "z": 4.187804265117832
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g9_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.2934843276639882,
+        "y": 0.2665103700433445,
+        "z": 4.1745307557893
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g10_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.296273368831327,
+        "y": 0.2637390523500936,
+        "z": 4.173945952449116
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.3250562328925555,
+        "y": 0.2637390523500936,
+        "z": 2.243973233118078
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.323690737051035,
+        "y": 0.2665103700433445,
+        "z": 2.244484439987206
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g12_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.237600301011655,
+        "y": 0.2637390523500936,
+        "z": 2.243973233118078
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.236812730530762,
+        "y": 0.2665103700433445,
+        "z": 2.244484439987206
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g11_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.25976722615251,
+        "y": 0.2637390523500936,
+        "z": 0.28818746468397727
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.258297228927396,
+        "y": 0.2665103700433445,
+        "z": 0.2885964453787598
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g13_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.3486028077800745,
+        "y": 0.2637390523500936,
+        "z": 0.2453544513352992
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.3495327987406824,
+        "y": 0.2665103700433445,
+        "z": 0.24545659864232072
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g14_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.6679902131615214,
+        "y": 0.2637390523500936,
+        "z": -2.3886409810520846
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.6670216123796817,
+        "y": 0.2665103700433445,
+        "z": -2.3884994214585604
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g16_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.220452217370081,
+        "y": 0.2665103700433445,
+        "z": -2.3884994214585604
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g15_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.2211689672205885,
+        "y": 0.2637390523500936,
+        "z": -2.3886409810520846
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.239792839648843,
+        "y": 0.2637390523500936,
+        "z": -5.871856572785217
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.239759410881344,
+        "y": 0.2665103700433445,
+        "z": -5.871723640344065
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g17_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.724319083332559,
+        "y": 0.2637390523500936,
+        "z": -5.871856572785217
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.723616467605331,
+        "y": 0.2665103700433445,
+        "z": -5.871723640344065
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 1.45,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.6
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g18_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.142744376592991,
+        "y": 0.23695412179815323,
+        "z": -9.590205850429115
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 3.15,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.142544836230972,
+        "y": 0.23967823334859767,
+        "z": -9.590205850429115
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 3.15,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g19_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.142362547300088,
+        "y": 0.23695412179815323,
+        "z": -13.518489462008551
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 3.15,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.14127078492412,
+        "y": 0.23967823334859767,
+        "z": -13.519688719599396
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 3.15,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g20_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.1639376652785955,
+        "y": 0.23695412179815323,
+        "z": -17.36831139943796
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 3.15,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.157418164101214,
+        "y": 0.23967823334859767,
+        "z": -17.36754087777266
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 3.15,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g21_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 0.11281984991294125,
+        "y": 0.23695412179815323,
+        "z": -11.796974819430494
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 2.54,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 0.11179709470038784,
+        "y": 0.23695412179815323,
+        "z": -11.796974819430494
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 2.54,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g24_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 0.0789898095108944,
+        "y": 0.23695412179815323,
+        "z": -15.027909050345952
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 2.54,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 0.07739904850646967,
+        "y": 0.23695412179815323,
+        "z": -15.027502939680357
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 2.54,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g22_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 6.248714210455358,
+        "y": 0.23695412179815323,
+        "z": -15.027909050345952
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 2.54,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 6.251379443199835,
+        "y": 0.23695412179815323,
+        "z": -15.027502939680357
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 2.54,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g23_per}"
+        }
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 6.286727234538963,
+        "y": 0.23695412179815323,
+        "z": -11.787741025641612
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 2.54,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#ffffff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {}
+      }
+    },
+    {
+      "type": "Box",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 6.284560475221303,
+        "y": 0.23695412179815323,
+        "z": -11.788110011842315
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.1,
+        "y": 0.5,
+        "z": 1.1
+      },
+      "userData": {
+        "type": "Box",
+        "geometryParams": {
+          "width": 0.1,
+          "height": 2.54,
+          "depth": 0.1
+        },
+        "materialParams": {
+          "color": "#0000ff",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 0.5
+        },
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "scaleY": "{$g25_per}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -0.3711197680451752,
+        "y": 2.4299086357326134,
+        "z": 20.72797746441092
+      },
+      "rotation": {
+        "x": 0,
+        "y": 6.19591884457987,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.3,
+          "height": 0.01,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.01
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "2023-04-03 16:30:00",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$now}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.757849295520498,
+        "y": 1.7876473871354488,
+        "z": 16.55552092519664
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g1_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.458686920008082,
+        "y": 1.7767087773592594,
+        "z": 16.55552092519664
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g2_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.3951361687615855,
+        "y": 1.7767087773592594,
+        "z": 14.22419162737919
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g4_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.787338973596909,
+        "y": 1.7767087773592594,
+        "z": 14.22419162737919
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g3_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.739117945941476,
+        "y": 1.7767087773592594,
+        "z": 11.849304035678996
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g5_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.3520580382593894,
+        "y": 1.7767087773592594,
+        "z": 11.849304035678996
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g6_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.3363425829736926,
+        "y": 1.7767087773592594,
+        "z": 9.665260554250036
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g8_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.731937570079683,
+        "y": 1.7767087773592594,
+        "z": 9.599862814952543
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g7_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.676557856825758,
+        "y": 1.7767087773592594,
+        "z": 4.189756898370628
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g9_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.3788070620191206,
+        "y": 1.7767087773592594,
+        "z": 4.1587102967116385
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g10_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.4020319114748117,
+        "y": 1.7767087773592594,
+        "z": 2.22988463928588
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g12_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.724197732515494,
+        "y": 1.7767087773592594,
+        "z": 2.22988463928588
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g11_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.740941760787926,
+        "y": 1.7767087773592594,
+        "z": 0.27324672524934424
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g13_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.42017063497303,
+        "y": 1.7767087773592594,
+        "z": 0.23185745568540378
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g14_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.7542373434804346,
+        "y": 1.7767087773592594,
+        "z": -2.4037218087528434
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g16_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.70712964967815,
+        "y": 1.7767087773592594,
+        "z": -2.398935517569242
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g15_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.714782707680346,
+        "y": 1.7767087773592594,
+        "z": -5.879728304830667
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g17_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -3.8052974474862222,
+        "y": 1.7767087773592594,
+        "z": -5.879728304830667
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g18_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.222142381099493,
+        "y": 3.431791798686993,
+        "z": -9.604028268253655
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g19_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.222099684944219,
+        "y": 3.431791798686993,
+        "z": -13.524097559514553
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g20_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.250247442555925,
+        "y": 3.423241406287036,
+        "z": -17.380225825340773
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g21_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -0.376210703126292,
+        "y": 2.8112013894171746,
+        "z": -11.805626530246272
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g24_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 6.20875981133908,
+        "y": 2.8112013894171746,
+        "z": -11.805626530246272
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g25_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 6.161390975380191,
+        "y": 2.825530849486976,
+        "z": -15.036645277066745
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g23_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -0.4039621266076241,
+        "y": 2.825530849486976,
+        "z": -15.036645277066745
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#ff0000",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "50%",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g22_progress}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.864669232365768,
+        "y": 2.56300041440958,
+        "z": 16.590336805831544
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g2_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.664669232365768,
+        "y": 2.8967968692583215,
+        "z": 16.590336805831544
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g2_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.203865072952459,
+        "y": 2.5967968692583216,
+        "z": 16.590336805831544
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g1_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.0038650729524585,
+        "y": 2.8967968692583215,
+        "z": 16.590336805831544
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g1_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.763053178335156,
+        "y": 2.5967968692583216,
+        "z": 14.222683172910758
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g4_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.563053178335156,
+        "y": 2.8967968692583215,
+        "z": 14.222683172910758
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g4_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.193905751344838,
+        "y": 2.5967968692583216,
+        "z": 14.222683172910758
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g3_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -6.993905751344838,
+        "y": 2.8967968692583215,
+        "z": 14.222683172910758
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g3_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.761592172801937,
+        "y": 2.5967968692583216,
+        "z": 11.867747874633714
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g6_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.561592172801937,
+        "y": 2.8967968692583215,
+        "z": 11.867747874633714
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g6_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.179894621707254,
+        "y": 2.5967968692583216,
+        "z": 11.867747874633714
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g5_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -6.979894621707254,
+        "y": 2.8967968692583215,
+        "z": 11.867747874633714
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g5_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.736380497059629,
+        "y": 2.5967968692583216,
+        "z": 9.647435212151093
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g8_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.536380497059629,
+        "y": 2.8967968692583215,
+        "z": 9.647435212151093
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g8_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.180628007764016,
+        "y": 2.5967968692583216,
+        "z": 9.647435212151093
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g7_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -6.980628007764016,
+        "y": 2.8967968692583215,
+        "z": 9.647435212151093
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g7_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.756919570738415,
+        "y": 2.5967968692583216,
+        "z": 4.152967158251449
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g10_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.556919570738415,
+        "y": 2.8967968692583215,
+        "z": 4.152967158251449
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g10_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.105391425657988,
+        "y": 2.5967968692583216,
+        "z": 4.152967158251449
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g9_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -6.905391425657988,
+        "y": 2.8967968692583215,
+        "z": 4.152967158251449
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g9_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.817754095314535,
+        "y": 2.5967968692583216,
+        "z": 2.2211285367945517
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g12_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.617754095314535,
+        "y": 2.8967968692583215,
+        "z": 2.2211285367945517
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g12_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.149265591283225,
+        "y": 2.5967968692583216,
+        "z": 2.2211285367945517
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g11_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -6.949265591283225,
+        "y": 2.8967968692583215,
+        "z": 2.2211285367945517
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g11_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.800079919979341,
+        "y": 2.5967968692583216,
+        "z": 0.22672147154497602
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g14_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.600079919979341,
+        "y": 2.8967968692583215,
+        "z": 0.22672147154497602
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g14_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.168614075644982,
+        "y": 2.5967968692583216,
+        "z": 0.22672147154497602
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g13_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -6.968614075644982,
+        "y": 2.8967968692583215,
+        "z": 0.22672147154497602
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g13_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -5.12768517220901,
+        "y": 2.5967968692583216,
+        "z": -2.408266122339846
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g16_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.92768517220901,
+        "y": 2.8967968692583215,
+        "z": -2.408266122339846
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g16_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.148662792891863,
+        "y": 2.5967968692583216,
+        "z": -2.408266122339846
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g15_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -6.948662792891863,
+        "y": 2.8967968692583215,
+        "z": -2.408266122339846
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g15_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -5.174148877987323,
+        "y": 2.5967968692583216,
+        "z": -5.883424789189581
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g18_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -4.974148877987323,
+        "y": 2.8967968692583215,
+        "z": -5.883424789189581
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g18_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -7.175258486923783,
+        "y": 2.5967968692583216,
+        "z": -5.883424789189581
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g17_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -6.975258486923783,
+        "y": 2.8967968692583215,
+        "z": -5.883424789189581
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g17_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -6.409607750300528,
+        "y": 4.606399621248702,
+        "z": -9.625391208110171
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g19_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -6.209607750300528,
+        "y": 4.933857036145505,
+        "z": -9.625391208110171
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g19_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -6.39203608100172,
+        "y": 4.606399621248702,
+        "z": -13.521549868213196
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g20_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -6.19203608100172,
+        "y": 4.933857036145505,
+        "z": -13.521549868213196
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g20_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -6.397925285998341,
+        "y": 4.606399621248702,
+        "z": -17.39376893545419
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g21_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": -6.157925285998341,
+        "y": 4.933857036145505,
+        "z": -17.39376893545419
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g21_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 0.6699805439147491,
+        "y": 3.8338570361455053,
+        "z": -14.98880493991891
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g22_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 0.9499805439147492,
+        "y": 4.163857036145505,
+        "z": -14.98880493991891
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g22_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 4.257192411306967,
+        "y": 3.8338570361455053,
+        "z": -15.031366039332227
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g23_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 4.571924113069669,
+        "y": 4.163857036145505,
+        "z": -15.031366039332227
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g23_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 0.6406093702258729,
+        "y": 3.8338570361455053,
+        "z": -11.789895448311286
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g24_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 0.9406093702258729,
+        "y": 4.163857036145505,
+        "z": -11.789895448311286
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g24_temp}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 4.311756278618692,
+        "y": 3.8338570361455053,
+        "z": -11.789895448311286
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#00fadc",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "0.10m 100t",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g25_weight}"
+        }
+      }
+    },
+    {
+      "type": "Text",
+      "castShadow": true,
+      "receiveShadow": true,
+      "position": {
+        "x": 4.582756278618692,
+        "y": 4.163857036145505,
+        "z": -11.789895448311286
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "userData": {
+        "type": "Text",
+        "geometryParams": {
+          "size": 0.2,
+          "height": 0.02,
+          "curveSegments": 10,
+          "weight": "normal",
+          "style": "normal",
+          "bevelThickness": 0.1,
+          "bevelSize": 0.1,
+          "bevelEnabled": false,
+          "material": 0,
+          "extrudeMaterial": 1,
+          "depth": 0.02
+        },
+        "materialParams": {
+          "color": "#010101",
+          "bumpScale": 0.2,
+          "shininess": 30,
+          "opacity": 1
+        },
+        "text": "100°C",
+        "textureUrl": "",
+        "textureRepeatX": 3,
+        "textureRepeatY": 3,
+        "bind": {
+          "value": "{$g25_temp}"
+        }
+      }
+    },
+    {
+      "type": "Model",
+      "castShadow": false,
+      "receiveShadow": false,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 50,
+        "y": 50,
+        "z": 50
+      },
+      "userData": {
+        "type": "Model",
+        "modelName": "kuqu.glb",
+        "bind": {}
+      }
+    }
+  ]
+}
