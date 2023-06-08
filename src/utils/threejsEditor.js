@@ -348,7 +348,7 @@ class ThreejsEditor {
         obj.castShadow = this.INTERSECTED.castShadow
         obj.receiveShadow = this.INTERSECTED.receiveShadow
 
-        obj.userData = this.INTERSECTED.userData
+        obj.userData = JSON.parse(JSON.stringify(this.INTERSECTED.userData))
 
         obj.position.set(
           this.INTERSECTED.position.x + 2,
