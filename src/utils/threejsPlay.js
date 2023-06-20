@@ -31,9 +31,10 @@ class ThreejsPlay {
   meshLine = null
   targetPosition = null
 
-  init(el, infoEl) {
+  init(el, infoEl, handleLoading) {
     this.divMain = el
     this.divInfo = infoEl
+    this.handleLoading = handleLoading
     this.initRender()
     this.initScene()
     this.initCamera()
@@ -895,6 +896,9 @@ class ThreejsPlay {
     if (this.loadIndex == this.saveData.list.length) {
       this.isReady = true
       this.showInfo('')
+      if (this.handleLoading) {
+        this.handleLoading(false)
+      }
     }
   }
 

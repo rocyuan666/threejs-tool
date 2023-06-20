@@ -5,6 +5,7 @@
     <button @click="() => TP.moveTo({ x: 0, y: 0, z: 0 })">中心点</button>
     <button @click="() => bindData()">绑定值</button>
   </div>
+  <LoadingMask class="loading-mask" v-if="loading" />
   <div class="three-main" ref="divMain"></div>
 </template>
 
@@ -13,6 +14,7 @@ import { ref, onMounted } from 'vue'
 import axios from 'axios'
 import { asyncTasks } from 'roc-utils'
 import TP from '@/utils/threejsPlay'
+import LoadingMask from '@/components/LoadingMask/LoadingMask.vue'
 import requestData from './testData'
 
 function bindData() {
@@ -22,8 +24,12 @@ function bindData() {
 
 const divMain = ref()
 const divInfo = ref()
+const loading = ref(true)
+function hiddenLoading(isLoading) {
+  loading.value = isLoading
+}
 async function init3D() {
-  TP.init(divMain.value, divInfo.value)
+  TP.init(divMain.value, divInfo.value, hiddenLoading)
   let json = localStorage.getItem('saveData')
   if (json) {
     TP.load(JSON.parse(json))
@@ -37,6 +43,14 @@ onMounted(init3D)
 </script>
 
 <style lang="scss" scoped>
+.loading-mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+}
 .title {
   position: fixed;
   top: 0;
