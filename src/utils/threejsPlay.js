@@ -46,6 +46,55 @@ class ThreejsPlay {
     window.onresize = this.onWindowResize.bind(this)
   }
 
+  /**
+   * 释放webGL占用内存
+   */
+  clearRender() {
+    let clearScene = (scene) => {
+      let arr = scene.children.filter((x) => x)
+      arr.forEach((item) => {
+        if (item.children.length) {
+          clearScene(item)
+        } else {
+          if (item.type === 'Mesh') {
+            item.geometry.dispose()
+
+            item.material.dispose()
+
+            !!item.clear && item.clear()
+          }
+        }
+      })
+
+      !!scene.clear && scene.clear(this.renderer)
+
+      arr = null
+    }
+
+    try {
+      clearScene(this.scene)
+    } catch (e) {
+      /* empty */
+    }
+
+    try {
+      this.renderer.renderLists.dispose()
+      this.renderer.dispose()
+      this.renderer.forceContextLoss()
+      this.renderer.domElement = null
+      this.renderer.content = null
+      this.renderer = null
+    } catch (e) {
+      /* empty */
+    }
+
+    if (window.requestAnimationId) {
+      cancelAnimationFrame(window.requestAnimationId)
+    }
+
+    THREE.Cache.clear()
+  }
+
   //弧度角度换算
   getRad(deg) {
     return (Math.PI * deg) / 180
