@@ -2,13 +2,9 @@
  * @作者：rocyuan（袁鹏）
  * @邮箱：roc@rocyuan.top、rocyuan666@163.com
  * @微信：rocyuan666
- * @个人网站：http://rocyuan.top
+ * @github：https://github.com/rocyuan666
  */
 
-// 开发环境base api (已做代理)
-export const devBaseUrl = '/api'
-// 生产环境base api
-export const proBaseUrl = 'http://rocyuan.top:8080'
 // 网络请求超时时间(s)
 export const timeOut = 60
 // 储存token的标识

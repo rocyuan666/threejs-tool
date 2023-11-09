@@ -2,17 +2,24 @@
  * @作者：rocyuan（袁鹏）
  * @邮箱：roc@rocyuan.top、rocyuan666@163.com
  * @微信：rocyuan666
- * @个人网站：http://rocyuan.top
+ * @github：https://github.com/rocyuan666
  *
  * 网络请求的简单封装
  */
 import axios from 'axios'
 import NProgress from 'nprogress'
-import { devBaseUrl, proBaseUrl, timeOut, contentType } from '@/config'
+import { timeOut, contentType } from '@/config'
+
+let baseURL = ''
+if (import.meta.env.DEV && import.meta.env.VITE_APP_PROXY === 'true') {
+  baseURL = '/api'
+} else {
+  baseURL = import.meta.env.VITE_APP_BASE_API
+}
 
 export function request(config) {
   const instance1 = axios.create({
-    baseURL: import.meta.env.DEV ? devBaseUrl : proBaseUrl,
+    baseURL,
     timeout: timeOut * 1000,
     headers: {
       'Content-Type': contentType,
