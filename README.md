@@ -2,8 +2,6 @@
 
 roc 脚手架 vue 项目模板
 
-个人网站: [http://rocyuan.top](http://rocyuan.top)
-
 # roc-cli
 
 [![npm version](https://img.shields.io/npm/v/roc-cli.svg?logo=npm&style=flat-square)](https://www.npmjs.com/package/roc-cli)
@@ -20,14 +18,3 @@ roc 脚手架 vue 项目模板
 ## 使用说明
 
 全局下安装了 roc-cli 后就可以在命令行使用 `roc create <project-name>` 命令创建项目；创建项目会询问项目类型，上下键进行选择，回车确定。
-
-```bash
-roc create project-name
-
-⭐ Please select the project type to create:  (Use arrow keys)
-  vue2.x
-> vue3.x
-  uniapp
-  react
-  koa
-```
